@@ -10,7 +10,7 @@
 
 ## Assalam U Alaikum and Hello, Welcome! 🌟  
 
-### I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | Working on AI & AI agent & Agentic Workflow  
+### I'm **Ahmed Majid** – Full Stack Developer | MERN Specialist | Working on AI & AI agent & Agentic Workflow  
 
 With over **5 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
 My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
@@ -131,8 +131,8 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaddmajid12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shahzaddmajid12&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaddmajid12&bg_color=000000&color=00f9ff&line=00f9ff&point=ffffff&area=true&hide_border=true&radius=16&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmeddmajid12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmeddmajid12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ahmeddmajid12&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmeddmajid12&bg_color=000000&color=00f9ff&line=00f9ff&point=ffffff&area=true&hide_border=true&radius=16&order=5" height="300" alt="activity-graph graph"  />
 </div>
