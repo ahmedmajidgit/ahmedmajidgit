@@ -26,7 +26,7 @@ I love building clean, scalable systems, mentoring teams, and working on real-ti
 
 ### Languages & Frameworks  
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,express,nest,tailwind,bootstrap,threejs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,next,express,nest,tailwind,bootstrap,threejs" />
 </p>
 
 ### Databases  
