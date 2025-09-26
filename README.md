@@ -33,24 +33,18 @@ I love building clean, scalable systems, mentoring teams, and working on real-ti
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
-### APIs & State Management  
-`REST APIs` • `GraphQL` • `WebSockets` • `Webhooks` • `Redux`
+### APIs & State Management
+<p>
+  <img src="https://img.shields.io/badge/REST-API-blue?logo=fastapi&logoColor=white" height="30" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" />
+  <img src="https://img.shields.io/badge/WebSockets-35495E?logo=socketdotio&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?logo=zapier&logoColor=white" height="30" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" />
+</p>
 
 ### DevOps & Cloud  
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,aws,heroku,vercel,cloudflare,linux" />
-</p>
-
-### Integrations  
-`Google Maps` • `Stripe` • `PayPal` • `Square` • `Agora` • `LLMs`
-### Integrations
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/stripe-3.svg" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/paypal-2.svg" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/square-9.svg" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/agora-2.svg" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="40" />
 </p>
 
 ---
