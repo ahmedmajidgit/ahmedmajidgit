@@ -69,7 +69,7 @@ Tech: React.js, Node.js, Express.js, MongoDB, Stripe, Google Maps API
 ## 📫 Connect with Me  
 <p>
   <a href="mailto:ahmedmajidgit.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/ahmedmajidgit"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/ahmed-majid-software-engineer"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/ahmedmajidgit"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
