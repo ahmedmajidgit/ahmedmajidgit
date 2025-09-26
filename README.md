@@ -35,11 +35,11 @@ I love building clean, scalable systems, mentoring teams, and working on real-ti
 
 ### APIs & State Management
 <p>
-  <img src="https://img.shields.io/badge/REST-API-blue?logo=fastapi&logoColor=white" height="30" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" />
-  <img src="https://img.shields.io/badge/WebSockets-35495E?logo=socketdotio&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Webhooks-FF6F00?logo=zapier&logoColor=white" height="30" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" />
+  <img src="https://img.shields.io/badge/REST-APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ### DevOps & Cloud  
