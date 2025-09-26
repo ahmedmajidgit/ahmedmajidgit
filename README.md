@@ -18,10 +18,6 @@ I love building clean, scalable systems, mentoring teams, and working on real-ti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmajidgit&radius=16&theme=react&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedmajidgit&color=blue&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 ## 🛠 Skills  
@@ -80,7 +76,7 @@ Tech: React.js, Node.js, Express.js, MongoDB, Stripe, Google Maps API
 </p>
 
 ## 🎯 Beyond Code
-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Fidelogo.svg/220px-Fidelogo.svg.png" height="20" /> Check out my [FIDE Chess Profile](https://ratings.fide.com/profile/7820828)   
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Fidelogo.svg/220px-Fidelogo.svg.png" height="14" /> Check out my [FIDE Chess Profile](https://ratings.fide.com/profile/7820828)   
 - ☕ Powered by coffee & clean code  
 
 
