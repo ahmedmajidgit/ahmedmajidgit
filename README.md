@@ -43,6 +43,15 @@ I love building clean, scalable systems, mentoring teams, and working on real-ti
 
 ### Integrations  
 `Google Maps` • `Stripe` • `PayPal` • `Square` • `Agora` • `LLMs`
+### Integrations
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/stripe-3.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/paypal-2.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/square-9.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/agora-2.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="40" />
+</p>
 
 ---
 
