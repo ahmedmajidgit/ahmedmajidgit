@@ -1,4 +1,5 @@
-![Cover](https://via.placeholder.com/1200x300/001c3d/ffffff?text=👋+Hi,+I'm+Ahmed+Majid+-+Full+Stack+Developer+%7C+Team+Lead)
+  <img src="https://via.placeholder.com/1200x300/001c3d/ffffff?text=👋+Hi,+I'm+Ahmed+Majid+-+Full+Stack+Developer+%7C+Team+Lead" height="160"/>
+
 
 # 💻 Ahmed Majid
 **Full Stack Developer | Team Lead**  
