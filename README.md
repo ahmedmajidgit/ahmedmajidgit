@@ -1,4 +1,4 @@
-  <img src="https://via.placeholder.com/1200x300/001c3d/ffffff?text=👋+Hi,+I'm+Ahmed+Majid+-+Full+Stack+Developer+%7C+Team+Lead" height="160"/>
+  <img src="https://raw.githubusercontent.com/ahmedmajidgit/ahmedmajidgit/refs/heads/main/images/cover-photo.png" />
 
 
 # 💻 Ahmed Majid
