@@ -1,7 +1,8 @@
   <img src="https://raw.githubusercontent.com/ahmedmajidgit/ahmedmajidgit/refs/heads/main/images/cover-photo-new.png" width="100%" />
 
 
-# 💻 Ahmed Majid
+# 💻 Ahmed Majid 
+<img src="https://komarev.com/ghpvc/?username=ahmedmajidgit&color=blue&style=for-the-badge" alt="Profile views"/>
 **Full Stack Developer | Team Lead**  
 🌍 Karachi, Pakistan  
 
