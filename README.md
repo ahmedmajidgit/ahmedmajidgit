@@ -79,5 +79,10 @@ Tech: React.js, Node.js, Express.js, MongoDB, Stripe, Google Maps API
   <a href="https://github.com/ahmedmajidgit"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
+## 🎯 Beyond Code
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FIDE_logo.svg" height="20" /> Check out my [FIDE Chess Profile](https://ratings.fide.com/profile/7820828)   
+- ☕ Powered by coffee & clean code  
+
+
 ---
 ⭐️ From [Ahmed Majid](https://github.com/ahmedmajidgit)
