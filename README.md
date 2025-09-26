@@ -80,7 +80,7 @@ Tech: React.js, Node.js, Express.js, MongoDB, Stripe, Google Maps API
 </p>
 
 ## 🎯 Beyond Code
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FIDE_logo.svg" height="20" /> Check out my [FIDE Chess Profile](https://ratings.fide.com/profile/7820828)   
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Fidelogo.svg/220px-Fidelogo.svg.png" height="20" /> Check out my [FIDE Chess Profile](https://ratings.fide.com/profile/7820828)   
 - ☕ Powered by coffee & clean code  
 
 
