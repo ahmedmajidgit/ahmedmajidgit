@@ -1,9 +1,8 @@
-  <img src="https://raw.githubusercontent.com/ahmedmajidgit/ahmedmajidgit/refs/heads/main/images/cover-photo-new.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmedmajidgit/ahmedmajidgit/refs/heads/main/images/cover-photo-new.png"  />
 
 
 # 💻 Ahmed Majid 
-<img src="https://komarev.com/ghpvc/?username=ahmedmajidgit&color=blue&style=for-the-badge" alt="Profile views"/>
-**Full Stack Developer | Team Lead**  
+**Full Stack Developer**  **|** **Team Lead**  
 🌍 Karachi, Pakistan  
 
 🚀 Full Stack Developer and Team Lead with 5+ years of experience designing and developing scalable web applications using **React.js**, **Node.js**, and **TypeScript**.  
