@@ -1,5 +1,4 @@
-  <img src="https://raw.githubusercontent.com/ahmedmajidgit/ahmedmajidgit/refs/heads/main/images/cover-photo-new.png" width="100%" />
-   <img src="https://raw.githubusercontent.com/ahmedmajidgit/ahmedmajidgit/refs/heads/main/images/cover-photo.png" />
+<img src="https://raw.githubusercontent.com/ahmedmajidgit/ahmedmajidgit/refs/heads/main/images/cover-photo.png" />
 
 # 💻 Ahmed Majid
 
