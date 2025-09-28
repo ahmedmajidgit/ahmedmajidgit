@@ -14,8 +14,6 @@ I love building clean, scalable systems, mentoring teams, and working on real-ti
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedmajidgit&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmajidgit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmajidgit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmajidgit&radius=16&theme=react&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
 
