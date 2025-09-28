@@ -2,7 +2,7 @@
 
 
 # 💻 Ahmed Majid 
-
+<img src="https://komarev.com/ghpvc/?username=ahmedmajidgit&color=blue&style=for-the-badge" alt="Profile views"/>
 **Full Stack Developer | Team Lead**  
 🌍 Karachi, Pakistan  
 
